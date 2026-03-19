@@ -87,7 +87,7 @@ Investigates 11 clinical factors (age, cholesterol, ECG, etc.) using a dataset o
 ## 📬 Contact
 **Naina**  
 B-Tech CSE Student | St. Soldier Group of Institutions Under IKGPTU  
-*MEXT Scholarship Aspirant | AI & Engineering Innovation*
+*AI & Engineering Innovation*
 
 ---
 
